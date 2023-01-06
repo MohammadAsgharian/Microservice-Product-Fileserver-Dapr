@@ -2,6 +2,6 @@
 {
     public class IProductContext
     {
-        List<Domain.Product> Products { get; set; }
+       public List<Domain.Product> Products { get; set; }
     }
 }
