@@ -1,4 +1,4 @@
-namespace Microsoft.Fileserver
+namespace Microservice.Fileserver
 {
     public class WeatherForecast
     {

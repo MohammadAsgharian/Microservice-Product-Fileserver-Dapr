@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Fileserver", "Microsoft.Fileserver\Microsoft.Fileserver.csproj", "{9C53FE60-BF5B-4D8E-AC4E-4E26854105AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.Fileserver", "Microservice.Fileserver\Microservice.Fileserver.csproj", "{76467511-454C-4120-B8B5-EC045A285D29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C53FE60-BF5B-4D8E-AC4E-4E26854105AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C53FE60-BF5B-4D8E-AC4E-4E26854105AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C53FE60-BF5B-4D8E-AC4E-4E26854105AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C53FE60-BF5B-4D8E-AC4E-4E26854105AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76467511-454C-4120-B8B5-EC045A285D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76467511-454C-4120-B8B5-EC045A285D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76467511-454C-4120-B8B5-EC045A285D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76467511-454C-4120-B8B5-EC045A285D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {88A9724E-42B2-4B75-9197-951AF447CD44}
+		SolutionGuid = {1C7869ED-D567-4DCF-897A-0FCDBC3C7E93}
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Microsoft.Fileserver.Controllers
+namespace Microservice.Fileserver.Controllers
 {
     [ApiController]
     [Route("[controller]")]
